@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TicTacToe console/1.0.0": {
+        "dependencies": {
+          "ReactiveUI.WinForms": "18.3.1"
+        },
+        "runtime": {
+          "TicTacToe console.dll": {}
+        }
+      },
+      "ReactiveUI.WinForms/18.3.1": {
+        "runtime": {
+          "lib/net462/ReactiveUI.Winforms.dll": {
+            "assemblyVersion": "18.3.0.0",
+            "fileVersion": "18.3.1.49589"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToe console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReactiveUI.WinForms/18.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6rMaV1WBPq5qjli2GrotsJoDkb3NQBf+4dG3jzbwYtZC5FhkTk4Cxu8kKDAdcPpgnfoT/3n4W3NrpvdR+9QBWg==",
+      "path": "reactiveui.winforms/18.3.1",
+      "hashPath": "reactiveui.winforms.18.3.1.nupkg.sha512"
+    }
+  }
+}
